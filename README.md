@@ -43,8 +43,9 @@ DIVIDE(
 ```
 
 ### 3. Dashboard Components
+
 | Component | Description |
-|---|---|
+| --- | --- |
 | KPI Card | Overall churn rate across all customers |
 | Column Chart | Churn rate by contract type |
 | Column Chart | Churn rate by internet service type |
