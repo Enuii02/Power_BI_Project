@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: Telecom Customer Churn Analysis
+description: An interactive Power BI dashboard analysing customer churn in the telecommunications industry using the IBM Telco dataset.
+show_downloads: false
